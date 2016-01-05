@@ -1,7 +1,7 @@
 name: Innotimer
 favicon: null
-layout_spectrum: 0.14642945327796042
-typography_spectrum: 0.8408462593797594
+layout_spectrum: 0.50483
+typography_spectrum: 0.48807
 title: Innotimer
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.6292165564373136
-  lightness: 0.814833841053769
-  saturation: 0.36915879719890654
-  rhythmicContrast: 0.8126548267900944
+    - '#ffffff'
+    - '#7e7e7e'
+    - '#ff7f22'
+    - '#c3c3c3'
+    - '#ffb882'
+  brandStrength: 0.625
+  lightness: 0.8125
+  saturation: 0.375
+  rhythmicContrast: 0.5
 purpose: []
