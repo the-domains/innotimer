@@ -2,6 +2,7 @@ name: Innotimer
 favicon: null
 layout_spectrum: 0.14642945327796042
 typography_spectrum: 0.8408462593797594
+title: Innotimer
 cta:
   domain: null
   bucket: null
