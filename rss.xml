@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Innotimer]]></title>
+        <description><![CDATA[Innotimer]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 05 Jan 2016 16:32:22 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Taking the confusion out of innovation]]></title>
+            <description><![CDATA[<article><h1>Taking the confusion out of innovation</h1><p>If you are a founder of a startup, you have to take a thousand decisions or more. You have to decide who to team up with, what your product will be, how you will produce and deliver it, what people to target and how to get them to become customers. What channels to use, what promotion, what pricing, what features to offer. What technology to use, and which providers. And somehow you need to figure out how to fund your startup through its development phases.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e5aa4dcf972054fb6f7387218f36809968147a4f.jpg"></article>]]></description>
+            <link>undefinedtaking-the-confusion-out-of-innovation/index.html</link>
+            <guid isPermaLink="false">9442154f-8fb2-4b93-b9a6-5d34cbd714eb</guid>
+            <pubDate>Tue, 05 Jan 2016 16:32:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
