@@ -1,0 +1,28 @@
+name: Innotimer
+favicon: null
+layout_spectrum: 0.14642945327796042
+typography_spectrum: 0.8408462593797594
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6292165564373136
+  lightness: 0.814833841053769
+  saturation: 0.36915879719890654
+  rhythmicContrast: 0.8126548267900944
+purpose: []
